@@ -43,5 +43,5 @@ Passionate Fullstack Developer from Indonesia who enjoys building scalable web a
 ## 📫 Contact
 
 - Email: kvn4.200581@gmail.com
-- Portfolio: portfolio-mohammadkevin.vercel.app
+- Portfolio: https://portfolio-mohammadkevin.vercel.app
 - LinkedIn: https://www.linkedin.com/in/muhamad-kevin-arif-rudianto-945733347
