@@ -1,8 +1,8 @@
-# Hi 👋, I'm Mohammad Rudianto
+# Hi 👋, I'm Mohammad Kevin Arif Rudianto
 
 ## 🚀 Fullstack Developer
 
-I build scalable web applications using modern technologies with a focus on performance, security, and user experience.
+Passionate Fullstack Developer from Indonesia who enjoys building scalable web applications, REST APIs, and modern POS systems using Next.js, NestJS, Prisma, and MySQL.
 
 ---
 
@@ -32,16 +32,16 @@ I build scalable web applications using modern technologies with a focus on perf
 
 ## 📈 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=MohammadKevin&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKevin&layout=compact&theme=tokyonight)
 
-![streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+![streak](https://streak-stats.demolab.com?user=MohammadKevin&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-- Email: your@email.com
-- Portfolio: https://yourportfolio.com
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: kvn4.200581@gmail.com
+- Portfolio: portfolio-mohammadkevin.vercel.app
+- LinkedIn: https://www.linkedin.com/in/muhamad-kevin-arif-rudianto-945733347
