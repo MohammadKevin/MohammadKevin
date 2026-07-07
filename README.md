@@ -23,7 +23,6 @@ Passionate Fullstack Developer from Indonesia who enjoys building scalable web a
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![PM2](https://img.shields.io/badge/PM2-green?style=for-the-badge)
