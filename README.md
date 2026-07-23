@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/profile-card.svg" width="100%"/>
+   <img src="./profile-card.svg" width="100%"/>
 </p>
 <p align="center">
 <a href="https://portfolio-mohammadkevin.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
