@@ -43,7 +43,7 @@ I enjoy building scalable web applications, REST APIs, POS systems, dashboards, 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nextjs,react,nodejs,nestjs,express,prisma,mysql,postgres,mongodb,git,github,vscode,docker,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nextjs,nodejs,nestjs,express,prisma,mysql,postgres,git,github,vscode,figma"/>
 
 </p>
 
