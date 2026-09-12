@@ -26,7 +26,7 @@ Currently studying at SMK Telkom Malang, I focus on building scalable web applic
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nextjs,nodejs,nestjs,express,prisma,mysql,postgres,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nextjs,nodejs,nestjs,express,prisma,mysql,git,github,vscode,figma"/>
 </p>
 
 ## GitHub Analytics
