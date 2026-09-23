@@ -1,55 +1,55 @@
 <p align="center">
-<img src="./profile-card.svg" width="100%"/>
+  <img src="./profile-card.svg" width="100%"/>
 </p>
 
 <p align="center">
-<a href="https://portfolio-mohammadkevin.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammad-kevin-arif-rudianto-945733347"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kvn4.200581@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-mohammadkevin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-kevin-arif-rudianto-945733347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kvn4.200581@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## About Me
 
-I am **Mohammad Kevin Arif Rudianto**, a fullstack developer specializing in **Next.js, NestJS, and modern web technologies**.
+I'm **Mohammad Kevin Arif Rudianto**, a fullstack developer specializing in Next.js, NestJS, and modern web technologies. Currently studying at SMK Telkom Malang, I focus on building scalable web applications with clean architecture and solid engineering practices.
 
-Currently studying at SMK Telkom Malang, I focus on building scalable web applications with clean architecture and best practices. I love exploring backend systems, REST APIs, and database design to build products that solve real-world problems.
+My interests center on backend systems, REST API design, and database modeling — building products that solve practical, real-world problems.
 
 ## Current Focus
 
-| Area | What I am exploring |
-|------|----------------------|
-| **Backend Development** | Designing robust REST APIs with NestJS & Express |
-| **Frontend Development** | Building responsive interfaces with Next.js & Tailwind |
-| **Database** | Modeling data with Prisma ORM, MySQL & PostgreSQL |
-| **DevOps** | Learning Docker & deployment workflows |
+| Area | What I'm Exploring |
+|---|---|
+| Backend Development | Designing REST APIs with NestJS and Express |
+| Frontend Development | Building responsive interfaces with Next.js and Tailwind CSS |
+| Database | Data modeling with Prisma ORM, MySQL, and PostgreSQL |
+| DevOps | Docker and deployment workflows |
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,nestjs,express,prisma,mysql,git,github,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,nestjs,express,prisma,mysql,postgres,git,github,vscode,figma"/>
 </p>
 
-## GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadKevin&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKevin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MohammadKevin&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadKevin&show_icons=true&theme=default&hide_border=true&hide_title=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKevin&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ## Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🛒 OneShop | Fullstack Marketplace built with Next.js + NestJS |
-| ☕ POS Coffee | Cashier & POS System |
-| 📚 E-Library | Digital Library Management |
-| 📅 Attendance System | QR Code Attendance Application |
-| 🏫 School Dashboard | Dashboard for Education |
+|---|---|
+| **OneShop** | Fullstack marketplace built with Next.js and NestJS |
+| **POS Coffee** | Cashier and point-of-sale system |
+| **E-Library** | Digital library management system |
+| **Attendance System** | QR code-based attendance application |
+| **School Dashboard** | Dashboard for education management |
 
-## Favorite Quote
+## Contact
+
+- Portfolio: [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
+- LinkedIn: [Mohammad Kevin Arif Rudianto](https://www.linkedin.com/in/mohammad-kevin-arif-rudianto-945733347)
+- Email: [kvn4.200581@gmail.com](mailto:kvn4.200581@gmail.com)
 
 > "First, solve the problem. Then, write the code."
